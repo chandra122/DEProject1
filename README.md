@@ -1,6 +1,3 @@
-Here's an enhanced README.md with a strong data engineering focus:
-
-```markdown
 # Olympic Data Analysis - Data Engineering & ML Pipeline
 
 A comprehensive data engineering project that processes, transforms, and analyzes Olympic data using advanced ETL pipelines, data warehousing techniques, and machine learning models to predict medal outcomes and analyze athlete performance patterns.
